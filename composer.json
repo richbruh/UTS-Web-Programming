@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mews/captcha": "^3.3",
+        "laravel/ui": "^4.2"
+    }
+}
